@@ -1,2 +1,2 @@
 # spotify-security-playlist
-A teraform project for a security playlist
+A terraform project for a security playlist
