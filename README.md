@@ -1,8 +1,10 @@
 # spotify-security-playlist
+
 A terraform project for a security playlist
 
-# Setup
-1.) Configure 
+## Setup
+
+1.) Configure
 
 - export SPOTIFY_CLIENT_REDIRECT_URI=http://localhost:27228/spotify_callback
 
@@ -25,11 +27,11 @@ A terraform project for a security playlist
 
 - git clone https://github.com/hashicorp/learn-terraform-spotify.git
 
-# Original Instructions
+## Original Instructions
 
 - https://learn.hashicorp.com/tutorials/terraform/spotify-playlist
 
-# Demo Project
+## Demo Project
 
 - Create a playlist on Spotify by writing it as a Terraform configuration.
 
